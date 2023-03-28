@@ -5,9 +5,9 @@ from django.db import migrations, models
 
 class Migration(migrations.Migration):
 
-    dependencies = [
-        ('shop', '02_auto'),
-    ]
+    # dependencies = [
+    #     ('shop', '02_auto'),
+    # ]
 
     operations = [
         migrations.AlterField(

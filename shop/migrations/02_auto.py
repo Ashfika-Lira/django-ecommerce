@@ -2,7 +2,7 @@ from django.db import migrations
 
 PRODUCTS = [
     {
-        'name': 'Item 1',
+        'name': 'Smartphone case',
         'price': 10,
         'slug': 'item-2',
         'description': 'item 1 description'
